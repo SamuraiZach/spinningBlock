@@ -1,3 +1,3 @@
-# spinningBlock
+# Spinning Block
 First time utilizing threejs
 The block spins utlizing camera, geometry, and motion.
